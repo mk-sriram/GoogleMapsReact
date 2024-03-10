@@ -1,0 +1,34 @@
+* {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+html{ 
+  font-size: 62.4%;
+}
+
+body{
+  background-color: rgb(3,0,31);
+  color: white; 
+  font-family: 'Poppins', 'sans-serif';
+  align-items: center;
+  display: flex;
+}
+
+.mainBtn { 
+  padding: 20px;
+  font-size: 10px;
+}
+
+.canvas {
+  align-items: center;
+  padding: 2px; 
+  flex-direction: column;
+}
+
+
+.response{
+  background-color: white;
+}
